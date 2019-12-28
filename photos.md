@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Photos
+permalink: /photos/
 ---
 Just the one for now:
 
